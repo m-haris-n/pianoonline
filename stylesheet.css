@@ -48,7 +48,7 @@ header {
 .white-buttons {
   width: 95%;
   height: 200px;
-  background-color: aliceblue;
+  background-color:black;
   border-radius: 15px;
 
   margin-bottom: 20px;
@@ -61,11 +61,11 @@ header {
 }
 
 .keys {
-  width: 30px;
+  width: 2.6%;
   /* max-width: 40px; */
   height: 100%;
   background-color: white;
-  border: 1px solid darkgoldenrod;
+  /* border: .5px solid darkgoldenrod; */
   border-radius: 5px;
 
   display: flex;
@@ -73,6 +73,7 @@ header {
   align-items: center;
   flex-direction: column;
   padding-bottom: 10px;
+  
 }
 
 .black-btns {
@@ -85,18 +86,18 @@ header {
   /* justify-content: space-evenly; */
   margin-bottom: 100px;
   position: absolute;
-  margin-left: 25px;
+  margin-left: 1.4%;
   flex-wrap: wrap;
   margin-top: 180px;
 }
 
 .blk-keys {
-  width: 20px;
+  width: 1.74%;
   height: 100%;
   background-color: #222222;
-  border: 1px solid grey;
+  /* border: 1px solid grey; */
   border-radius: 5px;
-  margin-right: 11px;
+  margin-right: 1.085%;
   color: white;
   
   display: flex;
